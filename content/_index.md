@@ -12,7 +12,7 @@ sections:
       adipiscing elit. Duis dapibus rutrum facilisis.\
       Class aptent taciti sociosqu torquent.
     img_path: /images/sorrento.jpg
-    title: Reflex
+    title: We deliver high quality italian products.
     type: intro
   - actions:
       - is_primary: false
