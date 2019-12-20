@@ -12,7 +12,7 @@ sections:
       adipiscing elit. Duis dapibus rutrum facilisis.\
       Class aptent taciti sociosqu torquent.
     img_path: /images/sorrento.jpg
-    title: We deliver high quality italian products.
+    title: We deliver high quality <br> italian products.
     type: intro
   - actions:
       - is_primary: false
